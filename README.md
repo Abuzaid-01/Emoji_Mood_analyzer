@@ -18,7 +18,7 @@ A sophisticated web-based sentiment analysis application that combines AI-powere
 
 ## 🚀 Live Demo
 
-[Try it here!](#) *(Add your Streamlit Cloud link after deployment)*
+[**Try it here!**](https://emoji-text-analyzer.streamlit.app/)
 
 ## 📸 Screenshots
 
